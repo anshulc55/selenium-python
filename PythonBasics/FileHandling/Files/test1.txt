@@ -1,0 +1,10 @@
+Hi, This is a Modification.
+Writing from Writelines Method
+Name: Emma
+Address: 221 Baker Street
+City: London
+              Hi, This is a Modification.
+Writing from Writelines Method
+Name: Emma
+Address: 221 Baker Street
+City: London
