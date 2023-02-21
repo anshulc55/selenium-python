@@ -1,0 +1,18 @@
+{
+    "booleanfalse": false, 
+    "booleantrue": true, 
+    "carTuple": [
+        "BMW", 
+        "Audi", 
+        "range rover"
+    ], 
+    "colorList": [
+        "Red", 
+        "Green", 
+        "Blue"
+    ], 
+    "nonevalue": null, 
+    "sampleFloat": 225.48, 
+    "sampleInteger": 457, 
+    "sampleString": "python.com"
+}
