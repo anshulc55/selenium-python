@@ -1,0 +1,2 @@
+INFO     root:logger.py:8 {'user11': 'value11', 'browser': 'Chrome'}
+INFO     root:logger.py:8 Hi, I am in login Function

@@ -1,0 +1,2 @@
+INFO     root:logger.py:8 {'user22': 'value22'}
+INFO     root:logger.py:8 Hi, I am in login Function

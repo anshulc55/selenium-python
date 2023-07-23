@@ -1,0 +1,2 @@
+ERROR    root:logger.py:13 {'user44': 'value44'}
+CRITICAL root:logger.py:29 Hi, I am in login Function
